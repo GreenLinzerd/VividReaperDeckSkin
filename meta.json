@@ -1,0 +1,13 @@
+{
+	"id": "vividreaperdeckskin",
+	"name": "vividReaper's Deck Skin",
+	"author": [
+		"GreenLinzerd",
+		"SeSebasti (original code)"
+	],
+	"description": "Deck skin featuring OCs from vividReaper, drawn by GreenLinzerd.",
+	"prefix": "vividreaper",
+	"main_file": "main.lua",
+	"priority": 0,
+	"version": "1.0.0",
+}
