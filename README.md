@@ -2,4 +2,4 @@ Custom Balatro deck featuring original characters. Replaces the diamond suit, wi
 
 Prerequisites: [Steamodded](https://github.com/Steamodded/smods) and [Lovely](https://github.com/ethangreen-dev/lovely-injector/) using deck skin functionality
 
-![Diamonds](https://images2.imgbox.com/32/ed/3FPZpD5T_o.png)
+![Diamonds](https://images2.imgbox.com/16/16/1mk0WazV_o.png)
