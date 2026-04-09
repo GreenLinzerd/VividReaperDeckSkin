@@ -114,3 +114,10 @@ for i, suit in ipairs(suits) do
         palettes = palettes
     }
 end
+
+SMODS.Atlas{
+    key = "modicon",
+    px = 40,
+    py = 40,
+    path = "modicon.png"
+}
